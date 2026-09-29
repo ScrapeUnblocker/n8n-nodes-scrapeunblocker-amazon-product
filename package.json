@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-amazon-product",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the Amazon Product Scraper Apify Actor by ScrapeUnblocker: Amazon product details with price, rating, reviews, availability and images as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-amazon-product#readme",
